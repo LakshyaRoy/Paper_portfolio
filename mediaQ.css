@@ -794,9 +794,6 @@
 }
 
 @media screen and (max-width: 376px) {
-  .page8-Inner-div-first-word {
-    font-size: 27vh;
-  }
   .oval h1 {
     transform: translateX(-8%);
   }
@@ -812,6 +809,12 @@
   }
   .footer-div-2 {
     font-size: 12px;
+  }
+  .page8-Inner-div-first-word {
+    font-size: 13vh;
+  }
+  .page4-heading {
+    font-size: 14.5vw;
   }
 }
 
